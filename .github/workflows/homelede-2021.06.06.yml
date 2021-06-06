@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Build OpenWrt ljx 2021.04.25-apt before git
+name: Build OpenWrt HomeLede ljx 2021.06.06
 
 on:
   repository_dispatch:
